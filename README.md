@@ -27,4 +27,8 @@ start index.html
 ```
 
 ## License
+<<<<<<< HEAD
 Copyright © LouisKoo 2024 dev. All rights reserved.
+=======
+Copyright © LouisKoo 2024 dev. All rights reserved.
+>>>>>>> 4d110983c6839e41a6c58a589cfbcb323b1b4501
